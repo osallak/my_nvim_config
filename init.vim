@@ -17,7 +17,7 @@ Plug 'junegunn/fzf', { 'do': { -> fzf#install() } } "like find command but much 
 Plug 'preservim/tagbar'
 Plug 'neoclide/coc.nvim', {'branch': 'master', 'do': 'yarn install --frozen-lockfile'}
 Plug 'https://github.com/ryanoasis/vim-devicons' " Developer Icons
-Plug 'mg979/vim-visual-multi', {'branch': 'master'} "terminal inside vim
+Plug 'mg979/vim-visual-multi', {'branch': 'master'} "multi selection (like CTRL+D in vscode and subline)
 
 
 call plug#end()
