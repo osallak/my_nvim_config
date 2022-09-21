@@ -79,6 +79,6 @@ inoremap <expr><S-TAB> coc#pum#visible() ? coc#pum#prev(1) : "\<C-h>"
 
 nmap <F8> :TagbarToggle<CR>
 
-let g:user42 = 'A'
-let g:mail42 = 'A'
+let g:user42 = 'osallak'
+let g:mail42 = 'osallak@student.42.fr'
 
